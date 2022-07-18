@@ -1,0 +1,27 @@
+{
+  "name": "ts-functional",
+  "version": "0.1.0",
+  "description": "typescript funcional programming modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "prestart": "tsc",
+    "start": "node js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qazxsw1240/ts-functional.git"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "fp",
+    "typescript"
+  ],
+  "author": "qazxsw1240",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qazxsw1240/ts-functional/issues"
+  },
+  "homepage": "https://github.com/qazxsw1240/ts-functional#readme"
+}
